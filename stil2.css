@@ -1,0 +1,3 @@
+.kutu{width: 15vw; height: 15vh;background-color: aqua;
+padding: 1vw;}
+.container{display: flex ; flex-direction: row;}
